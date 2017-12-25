@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/laravel/routes/api.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/welcome.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/Http/Controllers/ProductController.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/routes/channels.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/Http/Controllers/Controller.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/migrations/2017_12_22_225941_create_prices_table.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/menu.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/factories/UserFactory.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/routes/console.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/prices/edit.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/migrations/2017_12_22_205152_create_products_table.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/User.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/Product.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/routes/web.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/Price.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/products/edit.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/products/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/composer.json</file>
+            <file>file:/D:/xampp/htdocs/laravel/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/.env</file>
+            <file>file:/D:/xampp/htdocs/laravel/app/Http/Controllers/PriceController.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/prices/create.blade.php</file>
+            <file>file:/D:/xampp/htdocs/laravel/resources/views/products/create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
